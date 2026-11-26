@@ -23,7 +23,7 @@ models:
         description: ""
 
       - name: token_address
-        data_type: varchar
+        data_type: varchardbt 
         description: ""
 
       - name: type
